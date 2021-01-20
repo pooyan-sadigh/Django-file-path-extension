@@ -11,3 +11,4 @@ two different methods are used in this project:
 # requirements:
 1) python 3.9
 2) django 3.1.4
+3) pillow library
